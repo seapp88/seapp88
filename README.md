@@ -2,7 +2,7 @@
 
 My name Evgenii.
 
-I’m currently working on Marketplace "Gunza" and Simple WMS "MP-WMS"
+I’m currently working ITED.PRO
 
 
 
