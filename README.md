@@ -1,5 +1,5 @@
 ### Hi there 👋
-####I'm T-shaped developer.
+#### I'm T-shaped developer.
 
 ### Frontend:
 - Vue.js
@@ -32,7 +32,7 @@ Telegram: [seapp88](https://telegram.me/seapp88)
 
 E-mail: seapp88@icloud.com
 
-#### I’m currently working ITED.PRO
+#### My currently workplace is ITED.PRO
 
 
 
