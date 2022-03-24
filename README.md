@@ -1,21 +1,17 @@
 ### Hi there 👋
-
 My name Evgenii. I'm T-shaped developer.
 
 ### Frontend:
-
 - Vue.js
 - React
 
 ### Backend (only Node.js)
-
 - Nest.js
 - Adonis.js
 - Express
 - Koa
 
 ### Devops:
-
 - Docker
 - Docker Swarm
 - Traefik
@@ -24,17 +20,19 @@ My name Evgenii. I'm T-shaped developer.
 - Prometheus
 
 ### Database
-
 - PostresSql
 - MongoDb
 - RethinkDb
 
 ### Mobile: 
-
 - React Native
 
 
 I’m currently working ITED.PRO
+
+### My contacts
+Telegram @seapp88
+E-mail: seapp88@icloud.com
 
 
 
