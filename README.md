@@ -27,7 +27,7 @@
 ### Mobile: 
 - React Native
 
-### My contacts
+### Contact me
 Telegram: [seapp88](https://telegram.me/seapp88)
 
 E-mail: seapp88@icloud.com
