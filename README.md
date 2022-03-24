@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name Evgenii. I'm T-shaped developer.
+####I'm T-shaped developer.
 
 ### Frontend:
 - Vue.js
@@ -27,13 +27,12 @@ My name Evgenii. I'm T-shaped developer.
 ### Mobile: 
 - React Native
 
-
-I’m currently working ITED.PRO
-
 ### My contacts
 Telegram: [seapp88](https://telegram.me/seapp88)
 
 E-mail: seapp88@icloud.com
+
+#### I’m currently working ITED.PRO
 
 
 
