@@ -1,3 +1,7 @@
+![GitHub seapp88](./assets/trailer.gif "GitHub seapp88")
+
+
+
 ### Hi there 👋
 #### I'm T-shaped developer.
 
